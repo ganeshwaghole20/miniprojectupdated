@@ -13,7 +13,9 @@ public class Run {
 		
 		
 		DatabaseConnection.connectionmethod();
+		System.out.println("connection made suceesfully");
 		LogicImplementation.actualLogic();
+		System.out.println("Actual logic executed sucessfully");
 		
 		
 		
