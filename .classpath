@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/checker-compat-qual-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/guava-29.0-android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/jackson-annotations-2.10.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/jackson-core-2.10.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/jackson-databind-2.10.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/jjwt-api-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/jjwt-impl-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/jjwt-jackson-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/joda-time-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Desktop/miniproject/twillo/twilio-7.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GANESH-NETRA-SWINAL/Downloads/javax.mail.jar/javax.mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
