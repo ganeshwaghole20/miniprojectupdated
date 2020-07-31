@@ -14,7 +14,7 @@ public class Constants {
 	public static final String mobilefrom="+12706320032";
 	public static final String mobilemessage="Test RESULT you have got less than 50% marks STUDY HARD AND GET GOOD MARKS";
 	public static final String ascd="AC0dddcf4b3cf747cb5772813061687c45";
-	public static final String autk ="4b25926a82ebc43b7d7d23c32aa3f0e0";
+	public static final String autk ="password";
 	public static final String host="mail.smtp.host";
 	public static final String smtpurl="smtp.gmail.com";
 	public static final String porturl="mail.smtp.socketFactory.port";
